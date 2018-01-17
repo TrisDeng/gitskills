@@ -5,3 +5,4 @@ fix conf
 =======
 fix conf
 >>>>>>> dev
+git is a free sw
