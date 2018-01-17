@@ -1,3 +1,7 @@
 # gitskills
 Git new add to dev
-Final change to resolve conflict
+<<<<<<< HEAD
+fix conf
+=======
+fix conf
+>>>>>>> dev
